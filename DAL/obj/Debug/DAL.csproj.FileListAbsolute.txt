@@ -1,0 +1,7 @@
+D:\UTCN\PS\PiataAZ\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\UTCN\PS\PiataAZ\DAL\bin\Debug\DAL.dll
+D:\UTCN\PS\PiataAZ\DAL\bin\Debug\DAL.pdb
+D:\UTCN\PS\PiataAZ\DAL\bin\Debug\Entities.dll
+D:\UTCN\PS\PiataAZ\DAL\bin\Debug\Entities.pdb
+D:\UTCN\PS\PiataAZ\DAL\obj\Debug\DAL.dll
+D:\UTCN\PS\PiataAZ\DAL\obj\Debug\DAL.pdb

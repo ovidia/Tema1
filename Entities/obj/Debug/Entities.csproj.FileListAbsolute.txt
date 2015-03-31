@@ -1,0 +1,5 @@
+D:\UTCN\PS\PiataAZ\Entities\bin\Debug\Entities.dll
+D:\UTCN\PS\PiataAZ\Entities\bin\Debug\Entities.pdb
+D:\UTCN\PS\PiataAZ\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\UTCN\PS\PiataAZ\Entities\obj\Debug\Entities.dll
+D:\UTCN\PS\PiataAZ\Entities\obj\Debug\Entities.pdb
